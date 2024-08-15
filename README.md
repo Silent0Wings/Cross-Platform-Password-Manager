@@ -1,7 +1,7 @@
 # Cross-Platform Password Manager
 
 ## Overview
-
+[Project Repport](https://github.com/Silent0Wings/Cross-Platform-Password-Manager/blob/939fe0b17c4e90f2708c98d06b8d6cb6afb32336/Github.pdf).
 The Cross-Platform Password Manager is a robust Java-based desktop application tailored for secure and efficient password management across any operating system capable of running Java. This includes a wide range of platforms such as Windows (from version 7 to 11), most Linux distributions, and macOS. The application leverages AES 256-bit encryption to safeguard all stored passwords, ensuring the highest level of data security. Passwords are organized in an intuitive tree structure, akin to folders and files, which allows users to easily manage, sort, label, and flag their credentials. Beyond basic password management, the application integrates a built-in command line interface (CLI) for advanced operations and offers extensive customization options, making it a versatile tool for both casual users and professionals.
 
 ## Features
