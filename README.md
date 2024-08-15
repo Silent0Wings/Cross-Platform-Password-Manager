@@ -1,6 +1,6 @@
 # Cross-Platform Password Manager
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 5px;">
+<div style="display: grid; grid-template-columns: repeat(3, 2fr); gap: 2px;">
   <img src="https://github.com/Silent0Wings/Cross-Platform-Password-Manager/blob/665412afd759dd612bd5e830b07be2b927de5bd4/Screenshots/P%20(1).png" alt="1" width="300"/>
   <img src="https://github.com/Silent0Wings/Cross-Platform-Password-Manager/blob/665412afd759dd612bd5e830b07be2b927de5bd4/Screenshots/P%20(2).png" alt="2" width="300"/>
   <img src="https://github.com/Silent0Wings/Cross-Platform-Password-Manager/blob/665412afd759dd612bd5e830b07be2b927de5bd4/Screenshots/P%20(3).png" alt="3" width="300"/>
