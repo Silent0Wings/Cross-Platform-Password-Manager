@@ -46,7 +46,8 @@ The Cross-Platform Password Manager is a robust Java-based desktop application t
 - **Audit and Reporting**: Users can generate reports on password usage, strength, and changes over time. This feature helps in maintaining strong security practices by identifying weak or reused passwords that need to be updated.
 
 ## Usage
-
+use this to run the executable java files (.jar) files :
+  java -jar Password_Manager_Ob.jar
 - **Password Management**: Easily store, organize, and manage your passwords within a hierarchical tree structure. This organization method ensures that related passwords are grouped together, making them easier to find and manage.
 
 - **Command Line Operations**: Use the integrated CLI for advanced operations, such as batch updates, complex sorting, and automated tasks. This feature is ideal for users who prefer or require command-line efficiency.
