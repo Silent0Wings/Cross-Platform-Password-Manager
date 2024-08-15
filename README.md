@@ -1,15 +1,16 @@
 # Cross-Platform Password Manager
+
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-  <img src="https://github.com/Silent0Wings/Cross-Platform-Password-Manager/blob/665412afd759dd612bd5e830b07be2b927de5bd4/Screenshots/P%20(1).png" alt="1" width="200"/>
-  <img src="https://github.com/Silent0Wings/Cross-Platform-Password-Manager/blob/665412afd759dd612bd5e830b07be2b927de5bd4/Screenshots/P%20(2).png" alt="2" width="200"/>
-  <img src="https://github.com/Silent0Wings/Cross-Platform-Password-Manager/blob/665412afd759dd612bd5e830b07be2b927de5bd4/Screenshots/P%20(3).png" alt="3" width="200"/>
-  <img src="https://github.com/Silent0Wings/Cross-Platform-Password-Manager/blob/665412afd759dd612bd5e830b07be2b927de5bd4/Screenshots/P%20(4).png" alt="4" width="200"/>
-  <img src="https://github.com/Silent0Wings/Cross-Platform-Password-Manager/blob/665412afd759dd612bd5e830b07be2b927de5bd4/Screenshots/P%20(5).png" alt="5" width="200"/>
-  <img src="https://github.com/Silent0Wings/Cross-Platform-Password-Manager/blob/665412afd759dd612bd5e830b07be2b927de5bd4/Screenshots/P%20(6).png" alt="6" width="200"/>
-  <img src="https://github.com/Silent0Wings/Cross-Platform-Password-Manager/blob/665412afd759dd612bd5e830b07be2b927de5bd4/Screenshots/P%20(7).png" alt="7" width="200"/>
-  <img src="https://github.com/Silent0Wings/Cross-Platform-Password-Manager/blob/665412afd759dd612bd5e830b07be2b927de5bd4/Screenshots/P%20(8).png" alt="8" width="200"/>
-  <img src="https://github.com/Silent0Wings/Cross-Platform-Password-Manager/blob/665412afd759dd612bd5e830b07be2b927de5bd4/Screenshots/P%20(9).png" alt="9" width="200"/>
-  <img src="https://github.com/Silent0Wings/Cross-Platform-Password-Manager/blob/665412afd759dd612bd5e830b07be2b927de5bd4/Screenshots/P%20(10).png" alt="10" width="200"/>
+  <img src="https://github.com/Silent0Wings/Cross-Platform-Password-Manager/blob/665412afd759dd612bd5e830b07be2b927de5bd4/Screenshots/P%20(1).png" alt="1" width="300"/>
+  <img src="https://github.com/Silent0Wings/Cross-Platform-Password-Manager/blob/665412afd759dd612bd5e830b07be2b927de5bd4/Screenshots/P%20(2).png" alt="2" width="300"/>
+  <img src="https://github.com/Silent0Wings/Cross-Platform-Password-Manager/blob/665412afd759dd612bd5e830b07be2b927de5bd4/Screenshots/P%20(3).png" alt="3" width="300"/>
+  <img src="https://github.com/Silent0Wings/Cross-Platform-Password-Manager/blob/665412afd759dd612bd5e830b07be2b927de5bd4/Screenshots/P%20(4).png" alt="4" width="300"/>
+  <img src="https://github.com/Silent0Wings/Cross-Platform-Password-Manager/blob/665412afd759dd612bd5e830b07be2b927de5bd4/Screenshots/P%20(5).png" alt="5" width="300"/>
+  <img src="https://github.com/Silent0Wings/Cross-Platform-Password-Manager/blob/665412afd759dd612bd5e830b07be2b927de5bd4/Screenshots/P%20(6).png" alt="6" width="300"/>
+  <img src="https://github.com/Silent0Wings/Cross-Platform-Password-Manager/blob/665412afd759dd612bd5e830b07be2b927de5bd4/Screenshots/P%20(7).png" alt="7" width="300"/>
+  <img src="https://github.com/Silent0Wings/Cross-Platform-Password-Manager/blob/665412afd759dd612bd5e830b07be2b927de5bd4/Screenshots/P%20(8).png" alt="8" width="300"/>
+  <img src="https://github.com/Silent0Wings/Cross-Platform-Password-Manager/blob/665412afd759dd612bd5e830b07be2b927de5bd4/Screenshots/P%20(9).png" alt="9" width="300"/>
+  <img src="https://github.com/Silent0Wings/Cross-Platform-Password-Manager/blob/665412afd759dd612bd5e830b07be2b927de5bd4/Screenshots/P%20(10).png" alt="10" width="300"/>
 </div>
 
 
