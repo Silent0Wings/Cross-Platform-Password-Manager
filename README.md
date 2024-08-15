@@ -11,6 +11,7 @@
   <img src="https://github.com/Silent0Wings/Cross-Platform-Password-Manager/blob/665412afd759dd612bd5e830b07be2b927de5bd4/Screenshots/P%20(8).png" alt="8" width="300"/>
   <img src="https://github.com/Silent0Wings/Cross-Platform-Password-Manager/blob/665412afd759dd612bd5e830b07be2b927de5bd4/Screenshots/P%20(9).png" alt="9" width="300"/>
   <img src="https://github.com/Silent0Wings/Cross-Platform-Password-Manager/blob/665412afd759dd612bd5e830b07be2b927de5bd4/Screenshots/P%20(10).png" alt="10" width="300"/>
+  <img src="https://github.com/Silent0Wings/Cross-Platform-Password-Manager/blob/665412afd759dd612bd5e830b07be2b927de5bd4/Screenshots/P%20(11).png" alt="10" width="300"/>
 </div>
 
 
