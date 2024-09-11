@@ -46,9 +46,7 @@ The Cross-Platform Password Manager is a robust Java-based desktop application t
 
 - **Security Best Practices**: In addition to AES 256 encryption, the application follows security best practices, such as securely handling user inputs, using strong random number generators for password creation, and ensuring that all sensitive operations are performed in a secure environment.
 
-- **Backup and Restore Functionality**: The application includes tools for backing up and restoring password databases, ensuring that your data is protected against accidental loss. Backups can be encrypted for added security.
-
-- **Multi-User Support**: The application can handle multiple user profiles, allowing each user to have their own set of passwords and settings. This is particularly useful for shared computers or environments where multiple users need to access the password manager.
+- **Local Backup and Restore Functionality**: The application includes tools for backing up and restoring password databases, ensuring that your data is protected against accidental loss. Backups can be encrypted for added security.
 
 - **Audit and Reporting**: Users can generate reports on password usage, strength, and changes over time. This feature helps in maintaining strong security practices by identifying weak or reused passwords that need to be updated.
 
