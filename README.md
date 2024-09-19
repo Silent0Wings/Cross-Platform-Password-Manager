@@ -22,6 +22,23 @@
 
 The Cross-Platform Password Manager is a robust Java-based desktop application tailored for secure and efficient password management across any operating system capable of running Java. This includes a wide range of platforms such as Windows (from version 7 to 11), most Linux distributions, and macOS. The application leverages AES 256-bit encryption to safeguard all stored passwords, ensuring the highest level of data security. Passwords are organized in an intuitive tree structure, akin to folders and files, which allows users to easily manage, sort, label, and flag their credentials. Beyond basic password management, the application integrates a built-in command line interface (CLI) for advanced operations and offers extensive customization options, making it a versatile tool for both casual users and professionals.
 
+## Installation
+
+There are two ways to install and run the Cross-Platform Password Manager:
+
+1. **Using the Executable JAR File**:
+   - Navigate to the `executable-jar` folder in the repository.
+   - Use the following command to run the application:
+     ```bash
+     java -jar Password_Manager_Ob.jar
+     ```
+   This option is cross-platform, meaning it can be used on any operating system that supports Java, including Windows, Linux, and macOS.
+
+2. **Using the Windows Installer**:
+   - For Windows users, an installer is available in the `installer` folder.
+   - Simply run the installer file to install the application on your system. This is a pre-configured installation package specifically for Windows.
+
+
 ## Features
 
 - **AES 256 Encryption**: All passwords are protected with AES 256-bit encryption, the industry standard for secure data storage, ensuring your sensitive information remains confidential.
