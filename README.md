@@ -24,23 +24,22 @@ The Cross-Platform Password Manager is a robust Java-based desktop application t
 
 
 ## 🛠 Requirements
-
 - **Java 17** is required to run this project.
 
-verify your java version with:
-```bash
-java -version
-```
-expected Output
-```bash
-java version "17.0.12" 2024-07-16 LTS
-Java(TM) SE Runtime Environment (build 17.0.12+8-LTS-286)
-Java HotSpot(TM) 64-Bit Server VM (build 17.0.12+8-LTS-286, mixed mode, sharing)
-```
-if not uninstall java and install this one
-Download it from Oracle:
+Windows:
 
 https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
+
+Linux:
+```bash
+sudo apt update
+sudo apt install openjdk-17-jdk
+```
+Mac:
+```bash
+brew install openjdk@17
+sudo ln -sfn /opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk /Library/Java/JavaVirtualMachines/openjdk-17.jdk
+```
 
 ## Installation
 
